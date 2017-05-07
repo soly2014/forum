@@ -1,0 +1,9 @@
+Models
+
+= Thread
+= User
+= Reply
+
+
+* thread is created by a user
+* reply belongs to thread && belongs to a user
